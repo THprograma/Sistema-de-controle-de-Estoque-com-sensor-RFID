@@ -1,0 +1,1 @@
+Este é um trabalho envolvendo dois readers desk de modelo r17 usando um sensor RFID.
